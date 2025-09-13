@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-to-Speech",
+  "description": "A text-to-speech application inspired by the Gemini UI. Convert your text into natural-sounding speech with customizable voice, pitch, and rate settings.",
+  "requestFramePermissions": []
+}
